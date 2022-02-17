@@ -1,4 +1,4 @@
-import RightNav from "../components/NavBar/NavBar";
+import NavBar from "../components/NavBar/NavBar";
 import {HiDownload} from "react-icons/hi";
 import styles from '/styles/About.module.css';
 

@@ -99,11 +99,10 @@ export default function Home() {
             <div>
               <div className="row">
                 <HoverBox img="/Logo.PNG"/>
+                <HoverBox img="/keeper.png"/>
               </div>
             </div>
           </div>
-
-
         </main>
       </div>
   )
